@@ -25,6 +25,11 @@ This is a **modern Android profile UI** built with **Jetpack Compose**. It showc
 
 ---
 
+## 🖼️ Screenshot
+
+![Profile UI Screenshot](images/profileUi.png)
+
+
 ## 🎯 Components Used
 
 - `TopAppBar`, `Button`, `IconButton`, `Image`, `Text`
